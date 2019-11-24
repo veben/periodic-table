@@ -47,31 +47,31 @@ h1 {
 }
 
 // ********** COLORS **********
-.periodic-table .element.-nonmetal, .element.-halogen {
+.periodic-table .nonmetal, .halogen {
   background: linear-gradient(110deg, rgba(255, 255, 0, 0.2), rgba(255, 255, 0, 0.3));
 }
-.periodic-table .element.-metalloid {
+.periodic-table .metalloid {
   background: linear-gradient(110deg, rgba(140, 190, 0, 0.2), rgba(140, 190, 0, 0.3));
 }
-.periodic-table .element.-noble-gas {
+.periodic-table .noble-gas {
   background: linear-gradient(110deg, rgba(255, 152, 0, 0.2), rgba(255, 152, 0, 0.3));
 }
-.periodic-table .element.-alkali-metal {
+.periodic-table .alkali-metal {
   background: linear-gradient(110deg, rgba(255, 0, 0, 0.2), rgba(255, 0, 0, 0.25));
 }
-.periodic-table .element.-alkaline-earth-metal {
+.periodic-table .alkaline-earth-metal {
   background: linear-gradient(110deg, rgba(64, 64, 255, 0.2), rgba(64, 64, 255, 0.25));
 }
-.periodic-table .element.-post-transition-metal {
+.periodic-table .post-transition-metal {
   background: linear-gradient(110deg, rgba(0, 255, 0, 0.2), rgba(0, 255, 0, 0.3));
 }
-.periodic-table .element.-transition-metal {
+.periodic-table .transition-metal {
   background: linear-gradient(110deg, rgba(0, 128, 255, 0.2), rgba(0, 128, 255, 0.3));
 }
-.periodic-table .element.-lanthanide {
+.periodic-table .lanthanide {
   background: linear-gradient(110deg, rgba(0, 255, 255, 0.25), rgba(0, 255, 255, 0.35));
 }
-.periodic-table .element.-actinide {
+.periodic-table .actinide {
   background: linear-gradient(110deg, rgba(64, 255, 192, 0.25), rgba(64, 255, 192, 0.35));
 }
 
