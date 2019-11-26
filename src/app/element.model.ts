@@ -3,5 +3,4 @@ export interface ElementModel {
   symbol: string;
   name: string;
   group: string;
-  cssClass: string;
 }

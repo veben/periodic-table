@@ -2,7 +2,7 @@
 context('Actions', () => {
   beforeEach(() => {
     cy.visit('/')
-  })
+  });
 
   describe("Periodic Table Cypress test", () => {
     it("Should have a title", () => {
@@ -22,4 +22,4 @@ context('Actions', () => {
       cy.get(".actinide").should('have.length', 15);
     });
   });
-})
+});

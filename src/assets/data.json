@@ -3,826 +3,708 @@
     "atomicNumber": 1,
     "symbol": "H",
     "name": "Hydrogen",
-    "group": "Nonmetal",
-    "cssClass": "nonmetal"
+    "group": "Nonmetal"
   },
   {
     "atomicNumber": 2,
     "symbol": "He",
     "name": "Helium",
-    "group": "Noble Gas",
-    "cssClass": "noble-gas"
+    "group": "Noble Gas"
   },
   {
     "atomicNumber": 3,
     "symbol": "Li",
     "name": "Lithium",
-    "group": "Alkali Metal",
-    "cssClass": "alkali-metal"
+    "group": "Alkali Metal"
   },
   {
     "atomicNumber": 4,
     "symbol": "Be",
     "name": "Beryllium",
-    "group": "Alkaline Earth Metal",
-    "cssClass": "alkaline-earth-metal"
+    "group": "Alkaline Earth Metal"
   },
   {
     "atomicNumber": 5,
     "symbol": "B",
     "name": "Boron",
-    "group": "Metalloid",
-    "cssClass": "metalloid"
+    "group": "Metalloid"
   },
   {
     "atomicNumber": 6,
     "symbol": "C",
     "name": "Carbon",
-    "group": "Nonmetal",
-    "cssClass": "nonmetal"
+    "group": "Nonmetal"
   },
   {
     "atomicNumber": 7,
     "symbol": "N",
     "name": "Nitrogen",
-    "group": "Nonmetal",
-    "cssClass": "nonmetal"
+    "group": "Nonmetal"
   },
   {
     "atomicNumber": 8,
     "symbol": "O",
     "name": "Oxygen",
-    "group": "Nonmetal",
-    "cssClass": "nonmetal"
+    "group": "Nonmetal"
   },
   {
     "atomicNumber": 9,
     "symbol": "F",
     "name": "Fluorine",
-    "group": "Halogen",
-    "cssClass": "halogen"
+    "group": "Halogen"
   },
   {
     "atomicNumber": 10,
     "symbol": "N",
     "name": "Neon",
-    "group": "Noble Gas",
-    "cssClass": "noble-gas"
+    "group": "Noble Gas"
   },
   {
     "atomicNumber": 11,
     "symbol": "Na",
     "name": "Sodium",
-    "group": "Alkali Metal",
-    "cssClass": "alkali-metal"
+    "group": "Alkali Metal"
   },
   {
     "atomicNumber": 12,
     "symbol": "Mg",
     "name": "Magnesium",
-    "group": "Alkaline Earth Metal",
-    "cssClass": "alkaline-earth-metal"
+    "group": "Alkaline Earth Metal"
   },
   {
     "atomicNumber": 13,
     "symbol": "Al",
     "name": "Aluminium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 14,
     "symbol": "Si",
     "name": "Silicon",
-    "group": "Metalloid",
-    "cssClass": "metalloid"
+    "group": "Metalloid"
   },
   {
     "atomicNumber": 15,
     "symbol": "P",
     "name": "Phosphorus",
-    "group": "Nonmetal",
-    "cssClass": "nonmetal"
+    "group": "Nonmetal"
   },
   {
     "atomicNumber": 16,
     "symbol": "S",
     "name": "Sulfur",
-    "group": "Nonmetal",
-    "cssClass": "nonmetal"
+    "group": "Nonmetal"
   },
   {
     "atomicNumber": 17,
     "symbol": "Cl",
     "name": "Chlorine",
-    "group": "Halogen",
-    "cssClass": "halogen"
+    "group": "Halogen"
   },
   {
     "atomicNumber": 18,
     "symbol": "Ar",
     "name": "Argon",
-    "group": "Noble Gas",
-    "cssClass": "noble-gas"
+    "group": "Noble Gas"
   },
   {
     "atomicNumber": 19,
     "symbol": "K",
     "name": "Potassium",
-    "group": "Alkali Metal",
-    "cssClass": "alkali-metal"
+    "group": "Alkali Metal"
   },
   {
     "atomicNumber": 20,
     "symbol": "Ca",
     "name": "Calcium",
-    "group": "Alkaline Earth Metal",
-    "cssClass": "alkaline-earth-metal"
+    "group": "Alkaline Earth Metal"
   },
   {
     "atomicNumber": 21,
     "symbol": "Sc",
     "name": "Scandium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 22,
     "symbol": "Ti",
     "name": "Titanium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 23,
     "symbol": "V",
     "name": "Vanadium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 24,
     "symbol": "Cr",
     "name": "Chromium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 25,
     "symbol": "Mn",
     "name": "Manganese",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 26,
     "symbol": "Fe",
     "name": "Iron",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 27,
     "symbol": "Co",
     "name": "Cobalt",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 28,
     "symbol": "Ni",
     "name": "Nickel",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 29,
     "symbol": "Cu",
     "name": "Copper",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 30,
     "symbol": "Zn",
     "name": "Zinc",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 31,
     "symbol": "Ga",
     "name": "Gallium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 32,
     "symbol": "Ge",
     "name": "Germanium",
-    "group": "Metalloid",
-    "cssClass": "metalloid"
+    "group": "Metalloid"
   },
   {
     "atomicNumber": 33,
     "symbol": "As",
     "name": "Arsenic",
-    "group": "Metalloid",
-    "cssClass": "metalloid"
+    "group": "Metalloid"
   },
   {
     "atomicNumber": 34,
     "symbol": "Se",
     "name": "Selenium",
-    "group": "Nonmetal",
-    "cssClass": "nonmetal"
+    "group": "Nonmetal"
   },
   {
     "atomicNumber": 35,
     "symbol": "Br",
     "name": "Bromine",
-    "group": "Halogen",
-    "cssClass": "halogen"
+    "group": "Halogen"
   },
   {
     "atomicNumber": 36,
     "symbol": "Kr",
     "name": "Krypton",
-    "group": "Noble Gas",
-    "cssClass": "noble-gas"
+    "group": "Noble Gas"
   },
   {
     "atomicNumber": 37,
     "symbol": "Rb",
     "name": "Rubidium",
-    "group": "Alkali Metal",
-    "cssClass": "alkali-metal"
+    "group": "Alkali Metal"
   },
   {
     "atomicNumber": 38,
     "symbol": "Sr",
     "name": "Strontium",
-    "group": "Alkaline Earth Metal",
-    "cssClass": "alkaline-earth-metal"
+    "group": "Alkaline Earth Metal"
   },
   {
     "atomicNumber": 39,
     "symbol": "Y",
     "name": "Yttrium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 40,
     "symbol": "Zr",
     "name": "Zirconium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 41,
     "symbol": "Nb",
     "name": "Niobium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 42,
     "symbol": "Mo",
     "name": "Molybdenum",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 43,
     "symbol": "Tc",
     "name": "Technetium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 44,
     "symbol": "Ru",
     "name": "Ruthenium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 45,
     "symbol": "Rh",
     "name": "Rhodium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 46,
     "symbol": "Pd",
     "name": "Palladium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 47,
     "symbol": "Ag",
     "name": "Silver",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 48,
     "symbol": "Cd",
     "name": "Cadmium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 49,
     "symbol": "In",
     "name": "Indium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 50,
     "symbol": "Sn",
     "name": "Tin",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 51,
     "symbol": "Sb",
     "name": "Antimony",
-    "group": "Metalloid",
-    "cssClass": "metalloid"
+    "group": "Metalloid"
   },
   {
     "atomicNumber": 52,
     "symbol": "Te",
     "name": "Tellurium",
-    "group": "Metalloid",
-    "cssClass": "metalloid"
+    "group": "Metalloid"
   },
   {
     "atomicNumber": 53,
     "symbol": "I",
     "name": "Iodine",
-    "group": "Halogen",
-    "cssClass": "halogen"
+    "group": "Halogen"
   },
   {
     "atomicNumber": 54,
     "symbol": "Xe",
     "name": "Xenon",
-    "group": "Noble Gas",
-    "cssClass": "noble-gas"
+    "group": "Noble Gas"
   },
   {
     "atomicNumber": 55,
     "symbol": "Cs",
     "name": "Cesium",
-    "group": "Alkali Metal",
-    "cssClass": "alkali-metal"
+    "group": "Alkali Metal"
   },
   {
     "atomicNumber": 56,
     "symbol": "Ba",
     "name": "Barium",
-    "group": "Alkaline Earth Metal",
-    "cssClass": "alkaline-earth-metal"
+    "group": "Alkaline Earth Metal"
   },
   {
     "atomicNumber": 57,
     "symbol": "La",
     "name": "Lanthanum",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 58,
     "symbol": "Ce",
     "name": "Cerium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 59,
     "symbol": "Pr",
     "name": "Praseodymium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 60,
     "symbol": "Nd",
     "name": "Neodymium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 61,
     "symbol": "Pm",
     "name": "Promethium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 62,
     "symbol": "Sm",
     "name": "Samarium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 63,
     "symbol": "Eu",
     "name": "Europium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 64,
     "symbol": "Gd",
     "name": "Gadolinium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 65,
     "symbol": "Tb",
     "name": "Terbium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 66,
     "symbol": "Dy",
     "name": "Dysprosium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 67,
     "symbol": "Ho",
     "name": "Holmium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 68,
     "symbol": "Er",
     "name": "Erbium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 69,
     "symbol": "Tm",
     "name": "Thulium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 70,
     "symbol": "Yb",
     "name": "Ytterbium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 71,
     "symbol": "Lu",
     "name": "Lutetium",
-    "group": "Lanthanide",
-    "cssClass": "lanthanide"
+    "group": "Lanthanide"
   },
   {
     "atomicNumber": 72,
     "symbol": "Hf",
     "name": "Hafnium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 73,
     "symbol": "Ta",
     "name": "Tantalum",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 74,
     "symbol": "W",
     "name": "Tungsten",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 75,
     "symbol": "Re",
     "name": "Rhenium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 76,
     "symbol": "Os",
     "name": "Osmium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 77,
     "symbol": "Ir",
     "name": "Iridium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 78,
     "symbol": "Pt",
     "name": "Platinum",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 79,
     "symbol": "Au",
     "name": "Gold",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 80,
     "symbol": "Hg",
     "name": "Mercury",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 81,
     "symbol": "Tl",
     "name": "Thallium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 82,
     "symbol": "Pb",
     "name": "Lead",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 83,
     "symbol": "Bi",
     "name": "Bismuth",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 84,
     "symbol": "Po",
     "name": "Polonium",
-    "group": "Metalloid",
-    "cssClass": "metalloid"
+    "group": "Metalloid"
   },
   {
     "atomicNumber": 85,
     "symbol": "At",
     "name": "Astatine",
-    "group": "Halogen",
-    "cssClass": "halogen"
+    "group": "Halogen"
   },
   {
     "atomicNumber": 86,
     "symbol": "Rn",
     "name": "Radon",
-    "group": "Noble Gas",
-    "cssClass": "noble-gas"
+    "group": "Noble Gas"
   },
   {
     "atomicNumber": 87,
     "symbol": "Fr",
     "name": "Francium",
-    "group": "Alkali Metal",
-    "cssClass": "alkali-metal"
+    "group": "Alkali Metal"
   },
   {
     "atomicNumber": 88,
     "symbol": "Ra",
     "name": "Radium",
-    "group": "Alkaline Earth Metal",
-    "cssClass": "alkaline-earth-metal"
+    "group": "Alkaline Earth Metal"
   },
   {
     "atomicNumber": 89,
     "symbol": "Ac",
     "name": "Actinium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 90,
     "symbol": "Th",
     "name": "Thorium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 91,
     "symbol": "Pa",
     "name": "Protactinium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 92,
     "symbol": "U",
     "name": "Uranium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 93,
     "symbol": "Np",
     "name": "Neptunium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 94,
     "symbol": "Pu",
     "name": "Plutonium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 95,
     "symbol": "Am",
     "name": "Americium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 96,
     "symbol": "Cm",
     "name": "Curium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 97,
     "symbol": "Bk",
     "name": "Berkelium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 98,
     "symbol": "Cf",
     "name": "Californium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 99,
     "symbol": "Es",
     "name": "Einsteinium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 100,
     "symbol": "Fm",
     "name": "Fermium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 101,
     "symbol": "Md",
     "name": "Mendelevium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 102,
     "symbol": "No",
     "name": "Nobelium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 103,
     "symbol": "Lr",
     "name": "Lawrencium",
-    "group": "Actinide",
-    "cssClass": "actinide"
+    "group": "Actinide"
   },
   {
     "atomicNumber": 104,
     "symbol": "Rf",
     "name": "Rutherfordium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 105,
     "symbol": "Db",
     "name": "Dubnium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 106,
     "symbol": "Sg",
     "name": "Seaborgium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 107,
     "symbol": "Bh",
     "name": "Bohrium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 108,
     "symbol": "Hs",
     "name": "Hassium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 109,
     "symbol": "Mt",
     "name": "Meitnerium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 110,
     "symbol": "Ds",
     "name": "Darmstadtium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 111,
     "symbol": "Rg",
     "name": "Roentgenium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 112,
     "symbol": "Cn",
     "name": "Copernicium",
-    "group": "Transition Metal",
-    "cssClass": "transition-metal"
+    "group": "Transition Metal"
   },
   {
     "atomicNumber": 113,
     "symbol": "Nh",
     "name": "Nihonium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 114,
     "symbol": "Fl",
     "name": "Flerovium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 115,
     "symbol": "Mc",
     "name": "Moscovium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 116,
     "symbol": "Lv",
     "name": "Livermorium",
-    "group": "Post-Transition Metal",
-    "cssClass": "post-transition-metal"
+    "group": "Post-Transition Metal"
   },
   {
     "atomicNumber": 117,
     "symbol": "Ts",
     "name": "Tennessine",
-    "group": "Halogen",
-    "cssClass": "halogen"
+    "group": "Halogen"
   },
   {
     "atomicNumber": 118,
     "symbol": "Og",
     "name": "Oganesson",
-    "group": "Noble Gas",
-    "cssClass": "noble-gas"
+    "group": "Noble Gas"
   }
 ]

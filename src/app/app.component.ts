@@ -10,4 +10,17 @@ import { ElementModel } from "./element.model";
 export class AppComponent {
 
   elements: ElementModel[] = data["default"];
+
+  groupsToCssClass = {
+    "Nonmetal": "nonmetal",
+    "Noble Gas": "noble-gas",
+    "Alkali Metal": "alkali-metal",
+    "Alkaline Earth Metal": "alkaline-earth-metal",
+    "Metalloid": "metalloid",
+    "Halogen": "halogen",
+    "Post-Transition Metal": "post-transition-metal",
+    "Transition Metal": "transition-metal",
+    "Lanthanide": "lanthanide",
+    "Actinide": "actinide"
+  }
 }
