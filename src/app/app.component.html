@@ -1,6 +1,6 @@
 <h1>Periodic Table of Elements</h1>
 <div class="periodic-table">
-  <div *ngFor="let element of elements" [class]="'element an' + element.atomicNumber + ' ' + groupsToCssClass[element.group]">
+  <div *ngFor="let element of elements" [class]="'element an' + element.atomicNumber + ' ' + groupToCssClass[element.group]">
     <div class="atomic-number">{{element.atomicNumber}}</div>
     <div class="symbol">{{element.symbol}}</div>
     <div class="name">{{element.name}}</div>

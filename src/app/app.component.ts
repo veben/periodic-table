@@ -11,7 +11,7 @@ export class AppComponent {
 
   elements: ElementModel[] = data["default"];
 
-  groupsToCssClass = {
+  groupToCssClass = {
     "Nonmetal": "nonmetal",
     "Noble Gas": "noble-gas",
     "Alkali Metal": "alkali-metal",
