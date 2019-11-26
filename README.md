@@ -3,7 +3,7 @@
 Allow to test `CSS Display Grid`, and component testing with `Cypress`
 
 ## Test the application on Stackblitz
-https://stackblitz.com/edit/github-vauunv
+https://stackblitz.com/edit/github-kle261
 
 ## Launch tests with **Cypress**
 > First, launch the app
