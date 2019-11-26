@@ -1,6 +1,7 @@
 $column-number: 18;
 $row-number: 10;
 $element-size: 80px;
+$font-family: "Segoe UI", Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Source Sans Pro", sans-serif;
 
 // ********** POSITIONS **********
 @mixin defineElementPosition($elementAtomicNumber, $column, $row) {
@@ -83,17 +84,16 @@ $element-size: 80px;
 // ********** GENERAL **********
 h1 {
   color: #5b616b;
-  font-family: "Segoe UI", Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Source Sans Pro", sans-serif;
+  font-family: $font-family;
   font-weight: 500;
   font-size: 2.8em;
-
 }
 
 .periodic-table {
   display: grid;
   grid-template-columns: repeat($column-number, $element-size [col-start]);
   grid-template-rows: repeat($row-number, $element-size [col-start]);
-  font-family: "Segoe UI", Roboto, Oxygen, Oxygen-Sans, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", "Source Sans Pro", sans-serif;
+  font-family: $font-family;
 }
 
 .periodic-table .element {
