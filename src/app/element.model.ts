@@ -1,6 +1,6 @@
 export interface ElementModel {
-  atomicNumber: number;
-  symbol: string;
-  name: string;
-  group: string;
+  readonly atomicNumber: number;
+  readonly symbol: string;
+  readonly name: string;
+  readonly group: string;
 }
